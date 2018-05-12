@@ -1,0 +1,29 @@
+_repo: Wenderholme--A-Story-of-Lancashire-and-Yorkshire_40874
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40874-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamerton, Philip Gilbert
+    alias: Hamerton, P. G. (Philip Gilbert)
+    birthdate: 1834
+    deathdate: 1894
+    gutenberg_agent_id: '2787'
+    url: http://www.gutenberg.org/2009/agents/2787
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lancashire (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Yorkshire (England) -- Fiction'
+title: 'Wenderholme: A Story of Lancashire and Yorkshire'
+url: http://www.gutenberg.org/ebooks/40874
