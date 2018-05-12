@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2787
     wikipedia: http://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40874#Wenderholme--A-Story-of-Lancashire-and-Yorkshire
 gutenberg_issued: '2012-09-27'
 gutenberg_type: Text
 identifiers:
